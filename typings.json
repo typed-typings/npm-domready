@@ -1,0 +1,6 @@
+{
+  "name": "domready",
+  "browser": "browser.d.ts",
+  "dependencies": {
+  }
+}
