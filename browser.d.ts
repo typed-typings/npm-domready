@@ -1,1 +1,0 @@
-export default function domready(callback: () => any) : void;

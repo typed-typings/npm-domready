@@ -1,6 +1,8 @@
 {
+  "compilerOptions": {
+      "module": "commonjs"
+  },
   "files": [
-    "typings/main.d.ts",
-    "browser.d.ts"
+    "main.d.ts"
   ]
 }
