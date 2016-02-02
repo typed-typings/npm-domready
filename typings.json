@@ -1,6 +1,6 @@
 {
   "name": "domready",
-  "main": "main.d.ts",
+  "main": "domready.d.ts",
   "dependencies": {
   }
 }

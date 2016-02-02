@@ -3,6 +3,6 @@
       "module": "commonjs"
   },
   "files": [
-    "main.d.ts"
+    "domready.d.ts"
   ]
 }
